@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/Roll13.PNG"  ]
+[preload  storage="./data/bgimage/RollStar.PNG"  ]
+[preload  storage="./data/bgimage/Roll14.PNG"  ]
+[preload  storage="./data/bgimage/AllBlack.PNG"  ]
+[return] 
